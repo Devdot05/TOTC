@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+ 
+/* .hero-curved {
+  clip-path: path('M0,0 H100% V88% C75%,96% 25%,96% 0,88% Z');
+} */
